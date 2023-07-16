@@ -1,6 +1,6 @@
 # SeismicAI
 SeismicAI: Earthquake Detection and Monitoring App
-#Notice: This project is under devlopment. Not fully functional yet. 
+- **notice:** This project is under devlopment. Not fully functional yet. 
 SeismicAI is an advanced application that utilizes artificial intelligence and machine learning techniques to detect and monitor earthquakes based on seismic and structural data. The app provides a comprehensive solution for earthquake detection, evaluation, and continuous monitoring.
 
 ## Features
